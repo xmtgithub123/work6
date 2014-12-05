@@ -1,0 +1,126 @@
+
+
+/*左侧导航*/
+#circle{
+	width: 90px;
+	height: 90px;
+	margin: auto;
+	margin-bottom: 20px;
+	border: 9px solid #D3D3D3;
+	border-radius: 50%;
+
+	
+}
+#left{
+	
+	margin-top: -50px;
+	
+}
+#word{
+	font-size: 4.2em;
+	margin-left: 25%;
+	margin-top: -4px;
+	color: #0099FF;
+}
+#sidebar{
+	margin: auto;
+
+}
+#sidebar li a{
+	font-size: 16;
+	color: #808080;
+	border-bottom:1px solid #F0F0F0;
+	position:relative;
+
+}
+.fa-camera-retro{
+	margin-left: 34%;
+	position: absolute;
+}
+.fa-file-o{
+	margin-left:54%;
+	position: absolute;
+}
+.fa-area-chart{
+	margin-left: 52%;
+	position: absolute;
+}
+.fa-book{
+	margin-left: 52%;
+	position: absolute;
+}
+.fa-unlock-alt{
+	margin-left: 59%;
+	position: absolute;
+}
+.fa-comment-o{
+	margin-left: 35%;
+	position: absolute;
+}
+.fa-envelope{
+	margin-left: 46%;
+	position: absolute;
+}
+.fa-gears{
+	margin-left: 47%;
+	position: absolute;
+}
+.fa-user{
+	margin-left: 55%;
+	position: absolute;
+}
+.fa-wrench{
+	margin-left: 56%;
+	position: absolute;
+}
+.fa-chain-broken{
+	margin-left: 45%;
+	position: absolute;
+}
+/*右侧中部*/
+b{
+	color: red;
+	font-size: 20;
+}
+/*右侧顶部导航*/
+#navbar1{
+	
+	margin-right: 18%;
+	
+}
+/*右侧底部导航*/
+#navbar{
+	
+	margin-right: 18%;
+	
+}
+#navbar ul li{
+	border-left:1px solid #E8E8E8;
+	
+}
+#navbar1 ul li{
+	border-left:1px solid #E8E8E8;
+	
+}
+#top{
+	width:100%;
+	margin-left: 16.7%;
+	border-bottom:1px solid #E8E8E8;
+}
+#add{
+	border-right:1px solid #E8E8E8;
+	margin-left: -16px;
+}
+#many_word{
+	height: 90%;
+	width: 102.5%;
+	margin-top: 1%;
+	overflow:hidden;
+	overflow-y:auto;
+	
+}
+/*导航底部*/
+#buttom{
+	width:100%;
+	margin-left: 16.7%;
+}

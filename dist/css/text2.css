@@ -1,0 +1,38 @@
+body, html {
+ 2         margin: 0;
+ 3         overflow: hidden;
+ 4         height:100%;
+ 5     }
+ 6     .container{
+ 7         margin-left:3%;
+ 8         width:94%;
+ 9         margin-top:5%;
+10         height:90%;
+11     }
+12     .full-height{
+13         height:100%;
+14     }
+15     .full-width{
+16         position: relative;
+17         width:100%;
+18     }
+19     .scrollable {
+20         overflow-y: scroll; 
+21         padding-top:40px;
+22         border:1px solid #ddd;
+23         border-radius:4px;
+24         height:100%;
+25         text-align: center;
+26     }
+27     .title{
+28         position: absolute;
+29         top:0;
+30         height:40px;
+31         width:100%;
+32         padding:10px;
+33         font-weight: bold;
+34         text-align: center;
+35         background: #f8f8f8;
+36         border:1px solid #ddd;
+37         border-radius:4px 4px 0 0;
+38     }
